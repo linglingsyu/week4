@@ -16,8 +16,13 @@ module.exports = {
           dark: '#650300',
         },
         gray: {
+          light:'#DCDCDC',
           DEFAULT: '#707070',
         },
+        brown:{
+          DEFAULT:'#5F3E2D',
+          light:'#B75929'
+        }
       },
       fontFamily: {
         myFonts: ['Roboto', '"Noto Sans TC"', 'sans-serif'],
