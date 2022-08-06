@@ -4,7 +4,7 @@ module.exports = {
     extend: {
       container: {
         center: true,
-        padding: '16px',
+        padding: '12px',
       },
       colors: {
         maroon: {
@@ -12,9 +12,9 @@ module.exports = {
           DEFAULT: '#AA0601',
           dark: '#650300',
         },
-        gray:{
-          DEFAULT:'#707070'
-        }
+        gray: {
+          DEFAULT: '#707070',
+        },
       },
       fontFamily: {
         myFonts: ['Roboto', '"Noto Sans TC"', 'sans-serif'],
