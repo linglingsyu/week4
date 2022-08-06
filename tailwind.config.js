@@ -5,6 +5,9 @@ module.exports = {
       container: {
         center: true,
         padding: '12px',
+        screens:{
+          '2xl': '1320px',
+        }
       },
       colors: {
         maroon: {
