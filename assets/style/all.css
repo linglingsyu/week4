@@ -750,8 +750,8 @@ ul.pagination li.active{
 .h-6 {
   height: 1.5rem;
 }
-.min-h-\[414px\] {
-  min-height: 414px;
+.min-h-\[208px\] {
+  min-height: 208px;
 }
 .w-\[100px\] {
   width: 100px;
@@ -1156,6 +1156,10 @@ ul.pagination li.active{
 
   .md\:hidden {
     display: none;
+  }
+
+  .md\:min-h-\[414px\] {
+    min-height: 414px;
   }
 
   .md\:w-\[calc\(50\%-12px\)\] {
